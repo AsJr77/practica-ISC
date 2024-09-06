@@ -1,0 +1,2 @@
+# practica-ISC
+realizar practica 
